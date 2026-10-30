@@ -1,0 +1,7 @@
+record_id,algorithm,key_id,nonce,public_key_fingerprint,key_type,key_size_bits,generation_output_fingerprint
+SYN-001,AES-GCM,enc-key-A,0011aabbcc,fp-demo-01,RSA,3072,
+SYN-002,AES-GCM,enc-key-A,0011aabbcc,fp-demo-01,RSA,3072,
+SYN-003,AES-GCM,enc-key-B,0011aabbcc,fp-demo-02,RSA,1024,
+SYN-004,ChaCha20-Poly1305,enc-key-C,99ffee11,fp-demo-03,Ed25519,256,
+SYN-005,AES-GCM,enc-key-D,77889900,,RSA,2048,
+SYN-006,,enc-key-E,,fp-demo-04,RSA,not-a-number,
